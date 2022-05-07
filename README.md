@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Orhan.
 
-> Fullstack Web Developer looking for new challenges | HTML | CSS | JavaScript | React | NodeJS
+< Fullstack Web Developer looking for new challenges | HTML | CSS | JavaScript | React | NodeJS
 
 - 🌱 I’m currently learning node.js backend API.
 - 👯 I’m looking to collaborate on cool project.
