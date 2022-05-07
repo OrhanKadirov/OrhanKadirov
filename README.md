@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Orhan.
 
+- 🌱 I’m currently learning node.js backend API.
+
 <!--
 **OrhanKadirov/OrhanKadirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
