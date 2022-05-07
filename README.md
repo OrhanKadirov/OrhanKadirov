@@ -4,6 +4,8 @@
 - 👯 I’m looking to collaborate on cool project.
 - 📫 How to reach me: Click [here](https://orhankadirov.github.io/portfolio-website/).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanKadirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **OrhanKadirov/OrhanKadirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
