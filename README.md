@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning node.js backend API.
 - 👯 I’m looking to collaborate on cool project.
-- 📫 How to reach me: Click [![image](https://user-images.githubusercontent.com/89069508/169396700-3869b742-337a-4f1e-ba95-2cd1a2bcaf6d.png)]([https://orhankadirov.github.io/portfolio-website/](https://www.linkedin.com/in/orhan-kadirov/)).
+- 📫 How to reach me: Click [here]([https://orhankadirov.github.io/portfolio-website/](https://www.linkedin.com/in/orhan-kadirov/)).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanKadirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
