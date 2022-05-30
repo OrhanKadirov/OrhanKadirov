@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrhanKadirov&show_icons=true&theme=highcontrast)  
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OrhanKadirov)](https://github.com/OrhanKadirov/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OrhanKadirov&bg_color=react-dark)](https://github.com/OrhanKadirov/github-readme-activity-graph)
 
 
 <!--
