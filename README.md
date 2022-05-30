@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrhanKadirov&show_icons=true&theme=highcontrast)  
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OrhanKadirov&bg_color=19204d&color=19204d&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/OrhanKadirov/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OrhanKadirov&bg_color=000f7b&color=19204d&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/OrhanKadirov/github-readme-activity-graph)
 
 
 <!--
