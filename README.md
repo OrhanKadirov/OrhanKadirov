@@ -1,5 +1,5 @@
 ### Hi there 👋 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm Orhan;Junior Fullstack Web Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Orhan;Junior+Fullstack+Web+Developer.)](https://git.io/typing-svg)
 
 > MERN Fullstack Web Developer looking for new challenges | HTML | CSS | JavaScript | React | NodeJS
 
