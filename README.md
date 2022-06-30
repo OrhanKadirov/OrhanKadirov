@@ -4,8 +4,8 @@
 >> HTML
 >>> CSS 
 >>>> JavaScript
->>>>> React
->>>>>> NodeJS [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanKadirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+>>>>> React [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanKadirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+>>>>>> NodeJS
 
 - 🌱 I’m currently learning Redux.
 - 👯 I’m looking to collaborate on cool project.
