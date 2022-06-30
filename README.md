@@ -3,6 +3,12 @@
 
 > MERN Fullstack Web Developer looking for new challenges | HTML | CSS | JavaScript | React | NodeJS
 
+> HTML 100%
+>> CSS 95%
+>>> JavaScript 90%
+>>>> React 85%
+>>>>> NodeJS 80%
+
 - 🌱 I’m currently learning Redux.
 - 👯 I’m looking to collaborate on cool project.
 - 📫 How to reach me: Click [here](https://www.linkedin.com/in/orhan-kadirov/).
