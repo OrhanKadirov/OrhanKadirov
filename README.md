@@ -1,13 +1,12 @@
 ### Hi there 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Orhan;Junior+Fullstack+Developer.&size=25)](https://git.io/typing-svg)
 
-> MERN Fullstack Web Developer looking for new challenges | HTML | CSS | JavaScript | React | NodeJS
-
-> HTML 100%
->> CSS 95%
->>> JavaScript 90%
->>>> React 85%
->>>>> NodeJS 80%
+> MERN Fullstack Web Developer looking for new challenges
+>> HTML
+>>> CSS 
+>>>> JavaScript
+>>>>> React
+>>>>>> NodeJS
 
 - 🌱 I’m currently learning Redux.
 - 👯 I’m looking to collaborate on cool project.
