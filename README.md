@@ -5,11 +5,11 @@
 >>> CSS [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrhanKadirov&show_icons=true&theme=highcontrast)
 >>>> JavaScript [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 >>>>> React [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
->>>>>> NodeJS [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OrhanKadirov&bg_color=cccccc&color=19204d&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/OrhanKadirov/github-readme-activity-graph)
+>>>>>> NodeJS  [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OrhanKadirov&bg_color=cccccc&color=19204d&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/OrhanKadirov/github-readme-activity-graph)
 
 - 🌱 I’m currently learning Redux.
 - 👯 I’m looking to collaborate on cool project.
-- 📫 How to reach me: Click ![My Skills](https://skillicons.dev/icons?i=linkedin) [here](https://www.linkedin.com/in/orhan-kadirov/)
+- 📫 How to reach me: Click here [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/orhan-kadirov/)
 
 <!--
 **OrhanKadirov/OrhanKadirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
