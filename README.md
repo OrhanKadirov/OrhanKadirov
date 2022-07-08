@@ -4,7 +4,7 @@
 >> HTML [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanKadirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 >>> CSS ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrhanKadirov&show_icons=true&theme=highcontrast)
 >>>> JavaScript
->>>>> React
+>>>>> React [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
 >>>>>> NodeJS [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OrhanKadirov&bg_color=cccccc&color=19204d&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/OrhanKadirov/github-readme-activity-graph)
 
 - 🌱 I’m currently learning Redux.
