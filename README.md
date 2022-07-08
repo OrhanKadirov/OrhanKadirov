@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Redux.
 - 👯 I’m looking to collaborate on cool project.
-- 📫 How to reach me: Click here [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)](https://www.linkedin.com/in/orhan-kadirov/). 
+- 📫 How to reach me: Click here [![My Skills](https://skillicons.dev/icons?i=linkedin)] (https://skillicons.dev)](https://www.linkedin.com/in/orhan-kadirov/). 
 
 <!--
 **OrhanKadirov/OrhanKadirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
