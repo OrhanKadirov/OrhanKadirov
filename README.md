@@ -3,8 +3,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,mongodb,git,github,solidity)](https://skillicons.dev) 
 
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=sass&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=solidity&perline=3)](https://skillicons.dev)
-
 > MERN Fullstack Web Developer looking for new challenges 📫 How to reach me: Click here [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/orhan-kadirov/)
 
 - 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev).
