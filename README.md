@@ -1,6 +1,6 @@
 ### Hi there 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Orhan;Junior+Fullstack+Developer.&size=25)](https://git.io/typing-svg)
-> MERN Fullstack Web Developer looking for new challenges
+> MERN Fullstack Web Developer looking for new challenges  [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
 >> HTML [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanKadirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 >>> CSS [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrhanKadirov&show_icons=true&theme=highcontrast)
 >>>> JavaScript [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
