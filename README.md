@@ -3,7 +3,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,mongodb,git,github,solidity)](https://skillicons.dev) 
 
-> MERN Fullstack Web Developer looking for new challenges 📫 How to reach me: Click here [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/orhan-kadirov/)
+> MERN Fullstack Web Developer looking for new challenges 📫 How to reach me: Click here :arrow_right: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/orhan-kadirov/)
 
 - 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev).
 - 👯 I’m looking to collaborate on cool project.
