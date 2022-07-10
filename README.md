@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there :wave:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Orhan;Junior+Fullstack+Developer.&size=25)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,mongodb,git,github,solidity)](https://skillicons.dev) 
