@@ -8,7 +8,19 @@
 - 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev).
 - 👯 I’m looking to collaborate on cool project.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanKadirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrhanKadirov&show_icons=true&theme=highcontrast) [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OrhanKadirov&bg_color=cccccc&color=19204d&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/OrhanKadirov/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanKadirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrhanKadirov&show_icons=true&theme=highcontrast)
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OrhanKadirov&bg_color=cccccc&color=19204d&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/OrhanKadirov/github-readme-activity-graph)"
+```
+
+</p>
+</details>
 
 <!--
 **OrhanKadirov/OrhanKadirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
