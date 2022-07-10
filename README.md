@@ -10,14 +10,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanKadirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrhanKadirov&show_icons=true&theme=highcontrast)
 
-<details><summary>CLICK ME</summary>
-<p>
-
-#### Github Colaboration!
-
+<details><summary>Contribution graph</summary>
+<figure>
+   <figcaption>Orhan Kadirov Contribution graph</figcaption>
    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OrhanKadirov&bg_color=cccccc&color=19204d&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/OrhanKadirov/github-readme-activity-graph)
 
-</p>
+</figure>
 </details>
 
 <!--
