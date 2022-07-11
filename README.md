@@ -1,11 +1,11 @@
 ### Hi there :wave:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Orhan;Junior+Fullstack+Developer.&size=25)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,mongodb,git,github,solidity)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,mongodb,git,github)](https://skillicons.dev) 
 
 > MERN Fullstack Web Developer looking for new challenges 📫 How to reach me: Click here :arrow_upper_right: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/orhan-kadirov/)
 
-- 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev).
+- 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=redux,solidity&perline=3)](https://skillicons.dev).
 - 👯 I’m looking to collaborate on cool project.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanKadirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrhanKadirov&show_icons=true&theme=highcontrast)
