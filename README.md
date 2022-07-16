@@ -1,5 +1,7 @@
 ### Hi there :wave: ![wave](https://user-images.githubusercontent.com/89069508/179371940-49ef420f-671e-47fa-a6bd-7c1cd046e6de.gif)
 
+Hi there <img src="[wave.gif](https://user-images.githubusercontent.com/89069508/179371940-49ef420f-671e-47fa-a6bd-7c1cd046e6de.gif)" width="30px">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Orhan;Junior+Fullstack+Developer.&size=25)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,mongodb,git,github)](https://skillicons.dev) 
