@@ -1,7 +1,7 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/89069508/179371940-49ef420f-671e-47fa-a6bd-7c1cd046e6de.gif" width="30px"> I'm Orhan
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Junior+Fullstack+Developer.&size=22)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,mongodb,git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,mongodb,mysql,git,github)](https://skillicons.dev) 
 
 > MERN Fullstack Web Developer looking for new challenges 
 >>📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Orhan_Kadirov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orhan-kadirov/)](https://www.linkedin.com/in/orhan-kadirov/)
