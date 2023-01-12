@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=redux,python&perline=3)](https://skillicons.dev).
 - 👯 I’m looking to collaborate on cool project.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrhanKadirov&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanKadirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrhanKadirov&show_icons=true&theme=highcontrast)
