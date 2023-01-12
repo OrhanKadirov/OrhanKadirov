@@ -6,7 +6,7 @@
 > MERN Fullstack Web Developer looking for new challenges 
 >>📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Orhan_Kadirov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orhan-kadirov/)](https://www.linkedin.com/in/orhan-kadirov/)
 
-- 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=redux,python&perline=3)](https://skillicons.dev).
+- 🌱 I’m currently learning Everything.<!-- [![My Skills](https://skillicons.dev/icons?i=redux,python&perline=3)](https://skillicons.dev).-->
 - 👯 I’m looking to collaborate on cool project.
 
 
